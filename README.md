@@ -25,7 +25,7 @@ This project serves as a foundational platform for experimenting with decentrali
 - `turtlesim` package installed
 - Python 3 environment compatible with ROS 2
   
-###Future Work and Expansion Plans
+### Future Work and Expansion Plans
 
 I plan to extend this project in the following ways to better align with real autonomous vehicle systems and research interests:
 
