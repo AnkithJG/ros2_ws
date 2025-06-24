@@ -27,7 +27,7 @@ This project serves as a foundational platform for experimenting with decentrali
   
 ###Future Work and Expansion Plans
 
-I plan to extend this project in the following ways to better align with real autonomous vehicle systems and CONLab research interests:
+I plan to extend this project in the following ways to better align with real autonomous vehicle systems and research interests:
 
     Transition from Turtlesim to a realistic vehicle simulation, such as an Ackermann steering model in Gazebo.
 
