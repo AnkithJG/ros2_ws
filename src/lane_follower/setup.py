@@ -20,6 +20,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'lane_logic = lane_follower.lane_logic:main',
+            'lane_sensor = lane_follower.lane_sensor:main',
         ],
+
     },
 )
