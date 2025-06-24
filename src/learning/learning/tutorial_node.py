@@ -12,10 +12,10 @@ class TurtleSquareMover(Node):
 
     def move(self):
         msg = Twist()
-        if self.stage == 0:  # Move forward
+        if self.stage == 0:  
             msg.linear.x = 2.0
             msg.angular.z = 0.0
-        elif self.stage == 1:  # Turn right
+        elif self.stage == 1:  
             msg.linear.x = 0.0
             msg.angular.z = -1.57
         else:
@@ -25,7 +25,6 @@ class TurtleSquareMover(Node):
         self.publisher.publish(msg)
         self.count += 1
 
-        # After some cycles, switch stage
         if self.count > 10:
             self.count = 0
             self.stage = (self.stage + 1) % 2
