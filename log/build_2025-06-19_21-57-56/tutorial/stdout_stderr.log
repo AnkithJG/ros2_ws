@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/tutorial/tutorial.egg-info
+writing ../build/tutorial/tutorial.egg-info/PKG-INFO
+writing dependency_links to ../build/tutorial/tutorial.egg-info/dependency_links.txt
+writing entry points to ../build/tutorial/tutorial.egg-info/entry_points.txt
+writing requirements to ../build/tutorial/tutorial.egg-info/requires.txt
+writing top-level names to ../build/tutorial/tutorial.egg-info/top_level.txt
+writing manifest file '../build/tutorial/tutorial.egg-info/SOURCES.txt'
+reading manifest file '../build/tutorial/tutorial.egg-info/SOURCES.txt'
+writing manifest file '../build/tutorial/tutorial.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dev/ros2_ws/build/tutorial/build
+creating /home/dev/ros2_ws/build/tutorial/build/lib
+creating /home/dev/ros2_ws/build/tutorial/build/lib/tutorial
+copying tutorial/__init__.py -> /home/dev/ros2_ws/build/tutorial/build/lib/tutorial
+running install
+running install_lib
+creating /home/dev/ros2_ws/install/tutorial/lib/python3.10/site-packages/tutorial
+copying /home/dev/ros2_ws/build/tutorial/build/lib/tutorial/__init__.py -> /home/dev/ros2_ws/install/tutorial/lib/python3.10/site-packages/tutorial
+byte-compiling /home/dev/ros2_ws/install/tutorial/lib/python3.10/site-packages/tutorial/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/dev/ros2_ws/install/tutorial/share/ament_index
+creating /home/dev/ros2_ws/install/tutorial/share/ament_index/resource_index
+creating /home/dev/ros2_ws/install/tutorial/share/ament_index/resource_index/packages
+copying resource/tutorial -> /home/dev/ros2_ws/install/tutorial/share/ament_index/resource_index/packages
+copying package.xml -> /home/dev/ros2_ws/install/tutorial/share/tutorial
+running install_egg_info
+Copying ../build/tutorial/tutorial.egg-info to /home/dev/ros2_ws/install/tutorial/lib/python3.10/site-packages/tutorial-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/dev/ros2_ws/build/tutorial/install.log'

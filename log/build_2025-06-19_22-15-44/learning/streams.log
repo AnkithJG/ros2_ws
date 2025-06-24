@@ -1,0 +1,21 @@
+[0.566s] Invoking command in '/home/dev/ros2_ws/src/learning': PYTHONPATH=/home/dev/ros2_ws/build/learning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/ros2_ws/install/learning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learning build --build-base /home/dev/ros2_ws/build/learning/build install --record /home/dev/ros2_ws/build/learning/install.log --single-version-externally-managed install_data
+[0.733s] running egg_info
+[0.734s] writing ../../build/learning/learning.egg-info/PKG-INFO
+[0.734s] writing dependency_links to ../../build/learning/learning.egg-info/dependency_links.txt
+[0.734s] writing entry points to ../../build/learning/learning.egg-info/entry_points.txt
+[0.734s] writing requirements to ../../build/learning/learning.egg-info/requires.txt
+[0.734s] writing top-level names to ../../build/learning/learning.egg-info/top_level.txt
+[0.735s] reading manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+[0.736s] writing manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+[0.736s] running build
+[0.736s] running build_py
+[0.736s] running install
+[0.736s] running install_lib
+[0.737s] running install_data
+[0.737s] running install_egg_info
+[0.739s] removing '/home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning-0.0.0-py3.10.egg-info' (and everything under it)
+[0.739s] Copying ../../build/learning/learning.egg-info to /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning-0.0.0-py3.10.egg-info
+[0.740s] running install_scripts
+[0.754s] Installing tutorial_node script to /home/dev/ros2_ws/install/learning/lib/learning
+[0.754s] writing list of installed files to '/home/dev/ros2_ws/build/learning/install.log'
+[0.772s] Invoked command in '/home/dev/ros2_ws/src/learning' returned '0': PYTHONPATH=/home/dev/ros2_ws/build/learning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/ros2_ws/install/learning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learning build --build-base /home/dev/ros2_ws/build/learning/build install --record /home/dev/ros2_ws/build/learning/install.log --single-version-externally-managed install_data

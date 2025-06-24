@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/learning/learning.egg-info
+writing ../../build/learning/learning.egg-info/PKG-INFO
+writing dependency_links to ../../build/learning/learning.egg-info/dependency_links.txt
+writing entry points to ../../build/learning/learning.egg-info/entry_points.txt
+writing requirements to ../../build/learning/learning.egg-info/requires.txt
+writing top-level names to ../../build/learning/learning.egg-info/top_level.txt
+writing manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+reading manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+writing manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dev/ros2_ws/build/learning/build
+creating /home/dev/ros2_ws/build/learning/build/lib
+creating /home/dev/ros2_ws/build/learning/build/lib/learning
+copying learning/__init__.py -> /home/dev/ros2_ws/build/learning/build/lib/learning
+copying learning/tutorial_node.py -> /home/dev/ros2_ws/build/learning/build/lib/learning
+running install
+running install_lib
+creating /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning
+copying /home/dev/ros2_ws/build/learning/build/lib/learning/__init__.py -> /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning
+copying /home/dev/ros2_ws/build/learning/build/lib/learning/tutorial_node.py -> /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning
+byte-compiling /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning/tutorial_node.py to tutorial_node.cpython-310.pyc
+running install_data
+creating /home/dev/ros2_ws/install/learning/share/ament_index
+creating /home/dev/ros2_ws/install/learning/share/ament_index/resource_index
+creating /home/dev/ros2_ws/install/learning/share/ament_index/resource_index/packages
+copying resource/learning -> /home/dev/ros2_ws/install/learning/share/ament_index/resource_index/packages
+copying package.xml -> /home/dev/ros2_ws/install/learning/share/learning
+running install_egg_info
+Copying ../../build/learning/learning.egg-info to /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning-0.0.0-py3.10.egg-info
+running install_scripts
+Installing tutorial_node script to /home/dev/ros2_ws/install/learning/lib/learning
+writing list of installed files to '/home/dev/ros2_ws/build/learning/install.log'

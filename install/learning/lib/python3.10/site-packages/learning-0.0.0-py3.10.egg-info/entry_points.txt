@@ -1,0 +1,3 @@
+[console_scripts]
+tutorial_node = learning.tutorial_node:main
+

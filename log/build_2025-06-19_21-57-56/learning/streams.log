@@ -1,0 +1,37 @@
+[0.929s] Invoking command in '/home/dev/ros2_ws/src/learning': PYTHONPATH=/home/dev/ros2_ws/build/learning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/ros2_ws/install/learning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learning build --build-base /home/dev/ros2_ws/build/learning/build install --record /home/dev/ros2_ws/build/learning/install.log --single-version-externally-managed install_data
+[1.081s] running egg_info
+[1.081s] creating ../../build/learning/learning.egg-info
+[1.081s] writing ../../build/learning/learning.egg-info/PKG-INFO
+[1.081s] writing dependency_links to ../../build/learning/learning.egg-info/dependency_links.txt
+[1.081s] writing entry points to ../../build/learning/learning.egg-info/entry_points.txt
+[1.081s] writing requirements to ../../build/learning/learning.egg-info/requires.txt
+[1.082s] writing top-level names to ../../build/learning/learning.egg-info/top_level.txt
+[1.082s] writing manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+[1.083s] reading manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+[1.083s] writing manifest file '../../build/learning/learning.egg-info/SOURCES.txt'
+[1.083s] running build
+[1.083s] running build_py
+[1.083s] creating /home/dev/ros2_ws/build/learning/build
+[1.083s] creating /home/dev/ros2_ws/build/learning/build/lib
+[1.083s] creating /home/dev/ros2_ws/build/learning/build/lib/learning
+[1.083s] copying learning/__init__.py -> /home/dev/ros2_ws/build/learning/build/lib/learning
+[1.084s] copying learning/tutorial_node.py -> /home/dev/ros2_ws/build/learning/build/lib/learning
+[1.084s] running install
+[1.084s] running install_lib
+[1.084s] creating /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning
+[1.085s] copying /home/dev/ros2_ws/build/learning/build/lib/learning/__init__.py -> /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning
+[1.085s] copying /home/dev/ros2_ws/build/learning/build/lib/learning/tutorial_node.py -> /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning
+[1.085s] byte-compiling /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning/__init__.py to __init__.cpython-310.pyc
+[1.085s] byte-compiling /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning/tutorial_node.py to tutorial_node.cpython-310.pyc
+[1.086s] running install_data
+[1.086s] creating /home/dev/ros2_ws/install/learning/share/ament_index
+[1.086s] creating /home/dev/ros2_ws/install/learning/share/ament_index/resource_index
+[1.086s] creating /home/dev/ros2_ws/install/learning/share/ament_index/resource_index/packages
+[1.086s] copying resource/learning -> /home/dev/ros2_ws/install/learning/share/ament_index/resource_index/packages
+[1.086s] copying package.xml -> /home/dev/ros2_ws/install/learning/share/learning
+[1.086s] running install_egg_info
+[1.087s] Copying ../../build/learning/learning.egg-info to /home/dev/ros2_ws/install/learning/lib/python3.10/site-packages/learning-0.0.0-py3.10.egg-info
+[1.088s] running install_scripts
+[1.104s] Installing tutorial_node script to /home/dev/ros2_ws/install/learning/lib/learning
+[1.104s] writing list of installed files to '/home/dev/ros2_ws/build/learning/install.log'
+[1.133s] Invoked command in '/home/dev/ros2_ws/src/learning' returned '0': PYTHONPATH=/home/dev/ros2_ws/build/learning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/ros2_ws/install/learning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learning build --build-base /home/dev/ros2_ws/build/learning/build install --record /home/dev/ros2_ws/build/learning/install.log --single-version-externally-managed install_data
